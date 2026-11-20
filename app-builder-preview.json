@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "ISO Consultancy & Training in Nashik | Shubhkiran Quality Forum",
+      "hasCanvas": false,
+      "bodyTextLen": 4101,
+      "bodyTextHash": "57d3a4d1d60c12006bcbb38678beb43f72457d3b732ece35ab3ec6a145e52f3e",
+      "bodyTextPrefix": "Skip to content Free consultation open until 10 Dec 2026 Book Sh",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "ISO Consultancy & Training in Nashik | Shubhkiran Quality Forum",
+      "hasCanvas": false,
+      "bodyTextLen": 4047,
+      "bodyTextHash": "c9ebbf9f6a80fe525b24e6261fa1e6f2c5769630df7942a02241a99284c851a2",
+      "bodyTextPrefix": "Skip to content Free consultation open until 10 Dec 2026 Book Sh",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
